@@ -7,3 +7,16 @@
     height: 108px;
     width: 100%;
 }
+
+.menu__button {
+    margin: 0;
+    padding: 0;
+    background: #603BB7;
+    color: #ECEDED;
+    height: 48px;
+    width: 190px;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+}
