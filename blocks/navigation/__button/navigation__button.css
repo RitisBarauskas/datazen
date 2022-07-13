@@ -1,0 +1,17 @@
+.navigation__button {
+    margin: 0 15px 0 0;
+    padding: 0 10px;
+    width: max-content;
+    height: 44px;
+    cursor: pointer;
+    background-color: #ffffff;
+    border: #23272E4D 1px solid;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: 'Inter', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #23272E;
+}

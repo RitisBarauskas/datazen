@@ -1,0 +1,9 @@
+.footer__icon {
+    margin: 0 12px 0 35px;
+    padding: 0;
+    max-height: 20px;
+}
+
+.footer__icon:first-of-type {
+    margin-left: 0;
+}

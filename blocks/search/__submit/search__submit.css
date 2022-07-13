@@ -1,0 +1,14 @@
+.search__submit {
+    margin: 0;
+    padding: 0;
+    width: 48px;
+    height: 48px;
+    border: 0;
+    background: #603BB7;
+    border-radius: 0 8px 8px 0;
+    cursor: pointer;
+    background-image: url("../../../images/search_icon.svg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 24px 24px;
+}

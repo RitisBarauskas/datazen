@@ -1,0 +1,7 @@
+.search__form {
+    margin: 0;
+    padding: 0;
+    width: 540px;
+    height: 48px;
+    display: flex;
+}

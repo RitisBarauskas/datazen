@@ -1,0 +1,13 @@
+.header__switcher {
+    margin: 0 56px 0 auto;
+    padding: 0;
+    width: 70px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 90px;
+    background-image: url("../../../images/light_switcher.png");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: 0 2px;
+    cursor: pointer;
+}

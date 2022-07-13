@@ -1,0 +1,9 @@
+.search__input {
+    margin: 0;
+    padding: 0 0 0 10px;
+    height: 48px;
+    width: 100%;
+    box-sizing: border-box;
+    border: #603BB7 2px solid;
+    border-radius: 8px 0 0 8px;
+}

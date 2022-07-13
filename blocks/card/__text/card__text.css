@@ -1,0 +1,14 @@
+.card__text {
+    margin: 6px 0 0 10px;
+    padding: 0;
+    font-family: 'Inter', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #23272E;
+}
+
+.card__text:first-of-type {
+    margin-top: 15px;
+}

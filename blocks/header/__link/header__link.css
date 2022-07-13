@@ -1,0 +1,23 @@
+.header__link {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.header__link_margin-right-30 {
+    margin-right: 30px;
+}
+
+.header__link_margin-right-5 {
+    margin-right: 5px;
+}
+
+.header__link_margin-left-5 {
+    margin-left: 5px;
+}
