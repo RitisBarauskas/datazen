@@ -7,3 +7,9 @@
     grid-auto-rows: minmax(350px, 1fr);
     gap: 30px;
 }
+
+@media screen and (max-width: 1024px) {
+    .grid-cards__list {
+        gap: 20px;
+    }
+}

@@ -10,3 +10,9 @@
     cursor: pointer;
     font-weight: 400;
 }
+
+@media screen and (max-width: 1024px) {
+    .menu__button {
+        margin-bottom: 59px;
+    }
+}
